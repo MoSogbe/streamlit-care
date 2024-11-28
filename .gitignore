@@ -1,0 +1,8 @@
+.homecareenv
+__pycache__
+.app_localhost
+.venv
+.idea/
+.vscode/
+uploads/*
+.env
